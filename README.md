@@ -6,6 +6,11 @@ This App has also the option to Add ingredients to a Shopping List, edit, delete
   <img src="https://raw.githubusercontent.com/Portfolio-Projects/Food-Recipes-Project/master/dist/img/fr.png">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Portfolio-Projects/Food-Recipes-Project/master/dist/img/FoodRecipes.gif">
+</p>
+
+
 ## Technologies used for this Project are:
 - ECMASCRIPT 6
 - CSS3, SASS
