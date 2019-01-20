@@ -7,7 +7,7 @@ This App has also the option to Add ingredients to a Shopping List, edit, delete
 </p>
 
 ## Technologies used for this Project are:
-- ECMASCRIPT 6;
+- ECMASCRIPT 6
 - CSS3, SASS
 - NODE, NPM
 - WEBPACK, BABEL
