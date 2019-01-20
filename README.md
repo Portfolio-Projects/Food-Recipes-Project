@@ -3,7 +3,7 @@ Food Recipes Project is a small food recipes searching app. The recipes come fro
 This App has also the option to Add ingredients to a Shopping List, edit, delete and save the recipes into favorites. 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Portfolio-Projects/Food-Recipes-Project/master/dist/img/FoodRecipes.gif">
+  <img src="https://raw.githubusercontent.com/Portfolio-Projects/Food-Recipes-Project/master/dist/img/fr.png">
 </p>
 
 
@@ -25,3 +25,6 @@ This App has also the option to Add ingredients to a Shopping List, edit, delete
 ```
         npm run start
 ```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Portfolio-Projects/Food-Recipes-Project/master/dist/img/FoodRecipes.gif">
+</p>
