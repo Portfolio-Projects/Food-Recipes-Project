@@ -1,5 +1,5 @@
 # Food-Recipes-Project
-Food Recipes Project is a small food recipes searching app. The recipes come from a real API (https://www.food2fork.com/user/api#). In this Project I used Asynchronous Javascript, Ajax, API's. Data is fetched from food2fork API, showing the results, pagination, which allow us to navigate, croll through results and select one of the recipes loaded from the external API. 
+Food Recipes Project is a small food recipes searching app. The recipes come from a real API (https://www.food2fork.com/user/api#). In this Project I used Asynchronous Javascript, Ajax, API's. Data is fetched from food2fork API, showing the results, pagination, which allow us to navigate, scroll through results and select one of the recipes loaded from the external API. 
 This App has also the option to Add ingredients to a Shopping List, edit, delete and save the recipes into favorites. 
 
 <p align="center">
