@@ -10,3 +10,11 @@ This App has also the option to Add ingredients to a Shopping List, edit, delete
 - src = source code;
 - dist = final files(CSS, images, compiled Js file), ready to be deployed and served to the client;
 
+## How to Install: 
+- Clone or Download the Project via HTTPS or SSH;
+- Download the npm packages - package.json
+- In package.json file in scripts you can find the npm run commands;
+- Open the terminal and run the project using the npm command:
+```
+        npm run start
+```
