@@ -6,6 +6,12 @@ This App has also the option to Add ingredients to a Shopping List, edit, delete
   <img src="https://raw.githubusercontent.com/Portfolio-Projects/Food-Recipes-Project/master/dist/img/fr.png">
 </p>
 
+## Technologies used for this Project are:
+- ECMASCRIPT 6;
+- CSS3, SASS
+- NODE, NPM
+- WEBPACK, BABEL
+
 ## Folders Structure:
 - src = source code;
 - dist = final files(CSS, images, compiled Js file), ready to be deployed and served to the client;
