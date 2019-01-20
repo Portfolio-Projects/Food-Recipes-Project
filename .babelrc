@@ -1,0 +1,19 @@
+{
+    // preset is a collection of code transform plug-ins,
+    // they are piece of code which apply transformation to our code
+    "presets": [
+        //stands for environment which is the Browser
+        // corresponds to babel-preset-env
+        ["env", {
+            "targets": {
+                "browser": [
+                    //Babel automatically figures out which ES6 features
+                    // needs to convert in order to work on 
+                    // the last five verions of all the browsers 
+                    "last 5 versions",
+                    "ie >= 8"
+                ]
+            }
+        }]
+    ]
+}
