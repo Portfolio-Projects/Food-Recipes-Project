@@ -32,7 +32,3 @@ export default class Search {
     }
 
 }
-
-
-
-// getRecipes('vegan cookies');
